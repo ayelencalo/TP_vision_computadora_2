@@ -1,0 +1,23 @@
+# Dependencias para Trabajo Práctico: Detección de Jugadores, Pelota y Árbitros en Fútbol
+# Visión por Computadora II - CEIA - FIUBA (Grupo 11)
+
+# Deep Learning y Detección YOLO
+ultralytics>=8.3.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Visión por Computadora y Procesamiento de Imágenes
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Procesamiento Científico, Métricas y Visualización
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Descarga de Datos y Configuración
+kagglehub>=0.2.0
+pyyaml>=6.0
+tqdm>=4.65.0
